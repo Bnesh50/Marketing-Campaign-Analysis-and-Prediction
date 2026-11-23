@@ -1,0 +1,9 @@
+Metric,Value
+Regression MAE,170214.73074457372
+Regression MSE,69703012731.19789
+Regression RMSE,264013.28135379456
+Regression R2,0.6951687788342816
+Classification Accuracy,0.8209282092820929
+Classification Precision,0.9575163398692768
+Classification Recall,0.8047893535533259
+Classification F1 Score,0.8745349447743341
